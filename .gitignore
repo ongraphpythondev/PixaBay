@@ -1,0 +1,16 @@
+venv 
+image_urls_1_to_500.xlsx
+image_urls_500_to_1000.xlsx
+image_urls_1000_to_1500.xlsx
+image_urls_1500_to_2000.xlsx
+image_urls_2000_to_2500.xlsx
+image_urls_2500_to_3000.xlsx
+image_urls_3000_to_5000.xlsx
+image_urls_5000_to_6000.xlsx
+image_urls_6000_to_7000.xlsx
+image_urls_7000_to_8000.xlsx
+image_urls_8000_to_9000.xlsx
+image_urls_9000_to_10000.xlsx
+image_urls_concat.py
+New folder.zip
+chromedriver_win32
